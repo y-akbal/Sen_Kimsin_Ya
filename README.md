@@ -4,10 +4,10 @@
 An autoregressive neural network to generate random talks given by R.T.E. This is simply based on the method proposed in http://karpathy.github.io/2015/05/21/rnn-effectiveness/. Here, instead of Shakespeare we use the talks given by R.T.E.  It is neverthless good example to practice how RNNs work in Julia (Flux). 
 
 Caveat: Please do not generate a lot of text, as you may hear him whispering the text into your ear, as this is likely to give a bit goosebumps to you.
-  
-Below is an example: 
 
  
 
 </p>
 
+  
+Below is an example: 
