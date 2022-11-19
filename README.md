@@ -1,10 +1,7 @@
 # Sen Kimsin Ya?
-![Sen kimsin ya? Haddini bil](https://user-images.githubusercontent.com/13106580/202840615-ebddc317-f510-4681-8923-8ef5a6e5f958.jpeg
-)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/13106580/202840615-ebddc317-f510-4681-8923-8ef5a6e5f958.jpeg" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="https://user-images.githubusercontent.com/13106580/202840615-ebddc317-f510-4681-8923-8ef5a6e5f958.jpeg" width="350" title="Sen Kimsin Ya?">
 </p>
 
 
