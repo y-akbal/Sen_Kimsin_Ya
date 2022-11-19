@@ -1,7 +1,7 @@
 # Sen Kimsin Ya?
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/13106580/202840615-ebddc317-f510-4681-8923-8ef5a6e5f958.jpeg" width="350" title="Sen Kimsin Ya?">
+  <img src="https://user-images.githubusercontent.com/13106580/202849565-df233c8d-9373-496a-92be-b8baa10b69b6.jpg" width="350" title="Sen Kimsin Ya?">
 </p>
 
 
