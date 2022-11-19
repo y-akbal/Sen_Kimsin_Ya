@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/13106580/202850442-68200420-2b39-42da-8738-bd9b713513f2.jpg" width="350" title="Sen Kimsin Ya?", align="left">
+  <img src="https://user-images.githubusercontent.com/13106580/202850494-53bb3d3c-4976-4f3f-942d-413c0b9a1370.jpg" width="350" title="Sen Kimsin Ya?", align="left">
   
 An autoregressive neural network to generate random talks given by R.T.E. This is simply based on the method proposed in http://karpathy.github.io/2015/05/21/rnn-effectiveness/. Here, instead of Shakespeare we use the talks given by R.T.E.  It is neverthless good example to practice how RNNs work in Julia (Flux). 
 
