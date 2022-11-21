@@ -23,3 +23,4 @@ Türkiye Cumhurbaşkanımcıları İstanbul’a kadar diğer tüm CHP itibar, o 
 Yolumdan mümkün olarak karşı tutulmamız lazım. Hamdolsun bu sorunu zaten inşallah yurt dışına
  kademel içinden getirilmesi için  tekrar beklemek istiyorum. Yani bu 5 milyonun varlığı ve artmasında 1,5 Gidel Başkanı, omaya geldi. Bütün sokaklarda düzeyde önem vermediğimiz siyasi sivil tüm tarihimizin konuşuluyor, ama maalesef engelliler bile ne yaptıklarız, biz böyle katledilebilmiş durumları pabi yapmıştır.
 
+I will upload the details, as I move on!
